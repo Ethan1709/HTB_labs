@@ -34,7 +34,7 @@ BUT the lms.permx.htb one looks really interesting:
 
 It's a website that is running under Chamilo LMS, with just a basic authentication system.
 Before enumerating this subdomain, I search if there was any Chamilo exploit available (I couldn't retrieve the Chamilo version on the website).
-I found an interesting one on Github: 
+I found an interesting one on Github (https://github.com/Ziad-Sakr/Chamilo-CVE-2023-4220-Exploit): 
 
 <img width="849" alt="Screenshot 2024-09-17 at 18 34 13" src="https://github.com/user-attachments/assets/2f1f70be-80c7-4b52-a495-7ec53d906914">
 
