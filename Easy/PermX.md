@@ -17,7 +17,7 @@ As we can see we have just the usual 80 and 22 (ssh) ports.
 Let's see what the website looks like, but first we need to edit the /etc/hosts to match the ip address to the domain permx.htb.
 After exploring, it looks like there is nothing interesting around.
 
-I decided to enumerate the directories with gobuster but I found nothing intetesting too.
+I decided to enumerate the directories with gobuster but I found nothing intetesting either.
 Then I decided to try my luck with a subdomain enumeration, let's see if we can get something interesting:
  - I used this command:
    
