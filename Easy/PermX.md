@@ -14,7 +14,7 @@ As we can see we have just the usual 80 and 22 (ssh) ports.
 - Now let's have more info about these:
 <img width="1079" alt="Screenshot 2024-09-17 at 01 03 59" src="https://github.com/user-attachments/assets/0c54fe2e-8586-4985-81fd-eab0dabaa0fe">
 
-Let's see what the website looks like, but first we need we need to edit the /etc/hosts to macth the ip address to the domain permx.htb.
+Let's see what the website looks like, but first we need to edit the /etc/hosts to macth the ip address to the domain permx.htb.
 After exploring, it looks like there is nothing interesting around.
 
 I decided to enumerate the directories with gobuster but I found nothing intetesting too.
