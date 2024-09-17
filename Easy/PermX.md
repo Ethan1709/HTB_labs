@@ -112,7 +112,7 @@ Let's see if we can modify it:
 
 <img width="860" alt="Screenshot 2024-09-17 at 19 30 16" src="https://github.com/user-attachments/assets/473b728e-eca9-456e-a2e8-6f1b142fd213">
 
-We just remove the 'x' and past our password generated which is simply 'pass'.
+We just remove the 'x' and paste our password generated which is simply 'pass'.
 Now I should be able to be root.
 
 <img width="295" alt="Screenshot 2024-09-17 at 19 32 36" src="https://github.com/user-attachments/assets/ca1204dc-70fe-4aae-87da-98d814798939">
