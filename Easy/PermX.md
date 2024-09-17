@@ -62,7 +62,7 @@ I checked the /home directory and found the user mtz.
 <img width="273" alt="Screenshot 2024-09-17 at 18 50 55" src="https://github.com/user-attachments/assets/579d7acc-f367-4789-aa7d-a9d7002e7746">
 
 Let's find a way to escalate to this user.
-So when you arrive in this kind of situation, the good practise is to search on the internet where the configuration of the of the application is stored. Here it's chamilo and found that:
+So when you arrive in this kind of situation, the good practise is to search on the internet where the configuration of the application is stored. Here it's chamilo and found that:
 
 <img width="664" alt="Screenshot 2024-09-17 at 18 55 41" src="https://github.com/user-attachments/assets/8b75ea22-5e1f-4da2-9425-ea089e302e48">
 
