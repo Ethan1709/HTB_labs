@@ -95,7 +95,7 @@ Okay so it takes as first param a user, second param the permissions we want to 
 I wanna change the perms of the /etc/passwd file, so I can write my own password for root.
 Let's try it !
 
-First i generate a password using openssl:
+First I generate a password using openssl:
 
 <img width="419" alt="Screenshot 2024-09-17 at 19 27 12" src="https://github.com/user-attachments/assets/6c749558-5b46-4fc6-8ff9-9543ff9e0172">
 
