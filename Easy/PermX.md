@@ -87,7 +87,7 @@ First I always like to to sudo -l, as it is often the way to escalate our privil
 <img width="933" alt="Screenshot 2024-09-17 at 19 06 46" src="https://github.com/user-attachments/assets/6ffcba7e-91c0-4887-ad0b-d656130f05b2">
 
 Apparently we can indeed execute the file /opt/acl.sh with the sudo permission.
-Let's analyse first what is the file doing:
+Let's analyse first what the file does:
 
 <img width="677" alt="Screenshot 2024-09-17 at 19 12 24" src="https://github.com/user-attachments/assets/dfc5c5c6-b545-4383-85cc-e829159b3ecc">
 
