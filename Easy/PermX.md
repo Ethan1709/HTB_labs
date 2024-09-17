@@ -117,7 +117,7 @@ Now I should be able to be root.
 
 <img width="295" alt="Screenshot 2024-09-17 at 19 32 36" src="https://github.com/user-attachments/assets/ca1204dc-70fe-4aae-87da-98d814798939">
 
-Yayy we made it, we are root ! Just get your flag and grab a nice coffe.
+Yayy we made it, we are root ! Just get your flag and grab a nice coffee.
 
 
 This was a really nice and fun box, liked the escalation part that was new for me.
