@@ -91,7 +91,7 @@ Let's analyse first what the file does:
 
 <img width="677" alt="Screenshot 2024-09-17 at 19 12 24" src="https://github.com/user-attachments/assets/dfc5c5c6-b545-4383-85cc-e829159b3ecc">
 
-Okay so it takes as first param a user, second param the permissions we want to give to the file and third param the file we want to change the permissions of. But here is the trick, we can only change the permissions of any files located in /home/mtz directory. But there is no interesting file to change the perms under mtz (there is just the flag). So it thought about symlinks. We could use a symlink to a sensitive file that only root has access to, and change its permissions because we can use sudo (so we would have the root privileges doing so).
+Okay so it takes as first param a user, second param the permissions we want to give to the file and third param the file we want to change the permissions of. But here is the trick, we can only change the permissions of any files located in /home/mtz directory. But there is no interesting file to change the perms under mtz (there is just the flag). So I thought about symlinks. We could use a symlink to a sensitive file that only root has access to, and change its permissions because we can use sudo (so we would have the root privileges doing so).
 I wanna change the perms of the /etc/passwd file, so I can write my own password for root.
 Let's try it !
 
