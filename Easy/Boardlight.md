@@ -51,7 +51,7 @@ Let's if that's larissa's password.
 
 Yayy ! Grab your flag and piece of cupcake now, and enjoy. First step done.
 
-# Root privilege escalation
+## Root privilege escalation
 
 Now let's become root. I did the sudo -l first but we have no sudo rights.
 Then searched for the SUID files:
