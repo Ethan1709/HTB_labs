@@ -128,6 +128,6 @@ We can log as root now :
 
 <img width="529" alt="Screenshot 2024-10-29 at 20 21 32" src="https://github.com/user-attachments/assets/3eef1026-482f-41c7-9b30-d313b057c251">
 
-Here we are root. Grab your cupcake 🧁 and a tea we deserve it.
+Here we are root. Grab your cupcake 🧁 and a tea 🫖 we deserve it.
 That was a fun box, I really liked it and learned new stuff.
 See ya on the next write up !
