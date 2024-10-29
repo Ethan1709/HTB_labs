@@ -19,3 +19,7 @@ First we need to register to see this functionality.
 
 <img width="1101" alt="Screenshot 2024-10-29 at 18 49 09" src="https://github.com/user-attachments/assets/75dd9564-e574-472c-b8bd-2ac42f9cec17">
 
+So they give us a file example to show us what a cif file looks like and I have to admit it's a little strange. Never seen that kind of file before. But we take it, we learn a new type of file yeahhh.
+
+After searching around (dir fuzzing and trying to bypass the upload functionality to upload a php file), I wanted to see if there was a known vulnerability about cif files. And yes I was right there is a github repo just for that.
+Link: https://github.com/materialsproject/pymatgen/security/advisories/GHSA-vgv8-5cpj-qj2f
