@@ -45,7 +45,7 @@ python3 -c 'import pty; pty.spawn("/bin/bash")'
 CTRL+Z;stty raw -echo;
 export TERM=xterm
 
-Ok so now that we have a nice shell we can hack! Uhhhhh work I mean ;)
+Ok so now that we have a nice shell we can hack ! Uhhhhh work I mean ;)
 
 After checking the home directory it seems that we need to find a way to get to user rosa first.
 So we need to find her creds somwhere in the server. My experience tells me to always check the DB first!
@@ -70,3 +70,7 @@ It's MD5, I usesd crackstation to crack it:
 
 Ok now we have everything to log into rosa.
 I prefer to do it in ssh it's prettier uwu.
+
+<img width="645" alt="Screenshot 2024-10-29 at 19 34 20" src="https://github.com/user-attachments/assets/b568b5a2-8b45-49ea-a36c-cc1367ffe9b5">
+
+We can grab our usr.txt flag now !
